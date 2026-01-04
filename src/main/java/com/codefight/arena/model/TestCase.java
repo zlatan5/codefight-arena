@@ -8,7 +8,9 @@ import lombok.*;
 @NoArgsConstructor
 public class TestCase {
 
+    private String id;
     private String input;
     private String expectedOutput;
     private boolean isHidden;
+    private String explanation;
 }
