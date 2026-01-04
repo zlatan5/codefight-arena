@@ -6,7 +6,6 @@ import lombok.*;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-
 public class Problem {
 
     private int id;
@@ -15,7 +14,5 @@ public class Problem {
     private String difficulty;
     private String testCases;
     private String starterCode;
-
-
 
 }

@@ -1,5 +1,13 @@
 package com.codefight.arena.model;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
 public class Battle {
 
     private int id;
