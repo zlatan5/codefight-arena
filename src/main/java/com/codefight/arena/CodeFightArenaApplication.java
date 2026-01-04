@@ -1,4 +1,4 @@
-package com.example.code_fight_arena;
+package com.codefight.arena;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
